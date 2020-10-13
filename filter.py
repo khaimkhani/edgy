@@ -28,4 +28,4 @@ def form_kernel(array_1, array_2):
 
 
 if __name__ == '__main__':
-    print(gaussian_subfilter(3, 1.))
+    print(gaussian_subfilter(1, 0.7))
